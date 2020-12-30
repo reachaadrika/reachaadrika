@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ... Web Development Technologies
 
-- 📫 How to reach me: ... [LinkedIn];(https://www.linkedin.com/in/aadrika-b-164103134/)
+- 📫 How to reach me: ... [LinkedIn]:(https://www.linkedin.com/in/aadrika-b-164103134/)
 
 - 😄 Pronouns: ...She/Her
 
