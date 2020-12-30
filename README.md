@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...She/Her
 
-- ⚡ Fun fact: ... When I was young , I used to wait for my Hogwarts Letter to arrive. XD
--->
+- ⚡ Fun fact: ... When I was young , I used to wait for my Hogwarts Letter to arrive XD
+
