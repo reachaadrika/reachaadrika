@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ... Any project that involves HTML/CSS or Javascript 
 
-- 🤔 I’m looking for help with ...Django
+- 🤔 I’m looking for help with ...React
 
 - 💬 Ask me about ... Web Development Technologies
 
