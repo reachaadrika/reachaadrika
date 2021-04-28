@@ -5,7 +5,7 @@ In my free time I solve data structures problems and solve problems on codechef 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on... 
+- 🔭 I’m currently working on...React and related technologies
 
 - 🌱 I’m currently learning ... Getting my hands dirty with Javascript ,Python and other related technologies.
 
