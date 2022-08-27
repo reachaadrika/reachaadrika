@@ -9,7 +9,8 @@ I'm currently working as a intern for Siemens and a Student developer at Accord 
 I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovaccer. 🔭🌱
 
 ## Skills and Experience
-* ⚛ React                                                                                          [!gif](https://github.com/reachaadrika/reachaadrika/blob/main/girl.gif)
+<img align = "right" alt="coding" width="400" src="https://github.com/reachaadrika/reachaadrika/blob/main/girl.gif">
+* ⚛ React                                                                                         
 * 📱 NodeJS
 * 💻 Javascript
 * 💬 Kubernetes & Docker 
