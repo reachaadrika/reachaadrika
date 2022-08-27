@@ -6,10 +6,16 @@ I develop exceptional websites, web apps and tools that provide intuitive, pixel
 
 I'm currently working as a intern for Siemens and a Student developer at Accord Project
 
-I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovaccer.
+I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovaccer. 🔭🌱
 
-### Skills 
-VUE JS / REACT / JS / HTML / CSS
+## Skills and Experience
+* ⚛ React
+* 📱 NodeJS
+* 💻 Javascript
+* 💬 Kubernetes & Docker 
+* 💻 TypeScript 
+* ⚡ C++ & others 
+
 
 - ⚡ Fun fact: When young I used to wait for my Hogwarts letter  
 
