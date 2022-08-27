@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Aadrika
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Developer](https://github.com/reachaadrika/reachaadrika/blob/main/aadrika%20.png)
 
 I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
 
