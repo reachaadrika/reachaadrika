@@ -8,12 +8,11 @@ I'm currently working as a intern for Siemens and a Student developer at Accord 
 
 I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovaccer.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+### Skills 
+VUE JS / REACT / JS / HTML / CSS
 
 - ⚡ Fun fact: When young I used to wait for my Hogwarts letter  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reachaadrika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://reachaadrika.netlify.app/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reachaadrika&show_icons=true)  
 
