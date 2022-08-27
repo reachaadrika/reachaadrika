@@ -16,8 +16,7 @@ I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovac
 * 💬 Kubernetes & Docker 
 * 💻 TypeScript 
 * ⚡ C++ & others 
-
-<img align = "right" alt="coding" width="200" src="https://github.com/reachaadrika/reachaadrika/blob/main/girl.gif">
+* 
 
 ## Important Links 
 
