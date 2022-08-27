@@ -1,23 +1,19 @@
- Hi there 👋
+### Hi there 👋, I am Aadrika
+#### Software Developer
+![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a second year Computer science student at Jaypee University of Engineering and Technology,Guna.
-In my free time I solve data structures problems and solve problems on codechef & codeforces.
+I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
 
-Here are some ideas to get you started:
+I'm currently working as a intern for Siemens and a Student developer at Accord Project
 
-- 🔭 I’m currently working on...React and related technologies
+I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovaccer.
 
-- 🌱 I’m currently learning ... Getting my hands dirty with Javascript ,Python and other related technologies.
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 👯 I’m looking to collaborate on ... Any project that involves HTML/CSS or Javascript 
+- ⚡ Fun fact: When young I used to wait for my Hogwarts letter  
 
-- 🤔 I’m looking for help with ...React
 
-- 💬 Ask me about ... Web Development Technologies
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reachaadrika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://reachaadrika.netlify.app/)  
 
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/aadrika-b-164103134/)
-
-- 😄 Pronouns: ...She/Her
-
-- ⚡ Fun fact: ... When I was young , I used to wait for my Hogwarts Letter to arrive XD
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reachaadrika&show_icons=true)  
 
