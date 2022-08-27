@@ -2,7 +2,7 @@
 #### Software Developer
 ![Software Developer](https://github.com/reachaadrika/reachaadrika/blob/main/aadrika%20.png)
 
-I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.  
 
 I'm currently working as a intern for Siemens and a Student developer at Accord Project
 
@@ -16,7 +16,9 @@ I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovac
 * 💻 TypeScript 
 * ⚡ C++ & others 
 
+## Important Links 
 
+- 💻 Portfolio : https://reachaadrika.netlify.app/
 - ⚡ Fun fact: When young I used to wait for my Hogwarts letter  
 
 
