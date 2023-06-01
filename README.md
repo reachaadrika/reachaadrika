@@ -24,5 +24,3 @@ I have been among Top 5 National Finalists in HackerCamp'22 organized by Innovac
 - ⚡ Fun fact: When young I used to wait for my Hogwarts letter  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reachaadrika&show_icons=true)  
-
